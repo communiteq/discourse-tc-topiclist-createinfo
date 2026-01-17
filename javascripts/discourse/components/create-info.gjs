@@ -10,7 +10,7 @@ export default class CreateInfo extends Component {
   <template>
     {{yield}}
     {{#if this.showInfo}}
-      <div>
+      <div class="topic-list-create-info">
         <a href={{@topic.creator.path}} data-user-card={{@topic.creator.username}}>
           {{@topic.creator.username}}
         </a>&nbsp;
