@@ -2,7 +2,7 @@ import { withPluginApi } from "discourse/lib/plugin-api";
 import CreateInfo from "../components/create-info";
 
 export default {
-  name: "discourse-tc-fingerprint-button",
+  name: "discourse-tc-topiclist-createinfo",
 
   initialize() {
     withPluginApi("0.8.13", (api) => {
