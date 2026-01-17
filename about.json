@@ -1,0 +1,12 @@
+{
+  "name": "Topic",
+  "component": true,
+  "license_url": null,
+  "about_url": null,
+  "authors": "Communiteq",
+  "theme_version": "2026.01.17",
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  }
+}
